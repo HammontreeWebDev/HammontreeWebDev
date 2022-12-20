@@ -1,13 +1,18 @@
-<style> 
+<!-- <style> 
 .background {
   background-color: #323B40;
-  padding: 3%;
+  padding: 3%
 }
-</style>
+
+#header {
+  background-color: #323B40;
+  padding: 3%
+}
+</style> -->
 
 # Profile README Under Construction. . . 
 <!-- container for entire body -->
-<div class="background">
+<div class="background" style="background-color:#323B40">
 <!-- Header -->
 <div id="header">
 
