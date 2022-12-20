@@ -30,6 +30,7 @@
 
 <!-- Tech section -->
 <div id="tech">
+
 ## Tech | Tools
 
 <!-- FRONT END:  -->
@@ -79,6 +80,7 @@
 
 <!-- Socials section -->
 <div id="socials">
+
 ## Socials
 
 <div class="badges">
@@ -96,6 +98,7 @@
 
 <!-- Website section -->
 <div id="website">
+
 ## Website
 
 <div class="badges">
