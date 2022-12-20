@@ -8,7 +8,7 @@ Welcome, and thank you for taking your time to look at my work. I am beyond exci
 
 <br>
 
-[![Kaileb's GitHub stats](https://github-readme-stats.vercel.app/api?username=HammontreeWebDev)](https://github.com/HammontreeWebDev/github-readme-stats)
+[![Kaileb's GitHub stats](https://github-readme-stats.vercel.app/api?username=HammontreeWebDev)](https://github.com/HammontreeWebDev/)
 
 <br>
 
