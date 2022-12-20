@@ -1,35 +1,13 @@
-<!-- <style> 
-.background {
-  background-color: #323B40;
-  padding: 3%
-}
-
-#header {
-  background-color: #323B40;
-  padding: 3%
-}
-</style> -->
-
 # Profile README Under Construction. . . 
-<!-- container for entire body -->
-<div class="background" style="background-color:#323B40">
-<!-- Header -->
-<div id="header">
 
 ![transparent-name-logo](https://user-images.githubusercontent.com/113649683/208552834-4ee7dc4d-625d-403b-b40d-02e90d9464b3.png)
 
-</div>
+
 
 <!-- welcome section -->
-<div id="welcome">
-
 ## Welcome To My GitHub Profile!
 
-
-</div>
-
 <!-- Tech section -->
-<div id="tech">
 
 ## Tech | Tools
 
@@ -76,11 +54,8 @@
     <img src="https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=Heroku" alt="Heroku Badge"/>
     <img src="https://img.shields.io/badge/PWA-black?style=for-the-badge&logo=PWA" alt="PWA Badge"/>
 </div>
-</div>
 
 <!-- Socials section -->
-<div id="socials">
-
 ## Socials
 
 <div class="badges">
@@ -94,10 +69,8 @@
   </a>
     
 </div>
-</div>
 
 <!-- Website section -->
-<div id="website">
 
 ## Website
 
@@ -106,6 +79,3 @@
     <img src="https://img.shields.io/badge/Portfolio-HammontreeWebDev-red?style=for-the-badge" />
   </a>
   </div>
-  </div>
-
-</div>
