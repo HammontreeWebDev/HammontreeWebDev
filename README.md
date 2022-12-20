@@ -8,21 +8,65 @@
 
 ## Proficiencies
 
+<!-- FRONT END:  -->
+
+<div id="badges">
+    <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5" alt="HTML5 Badge"/>
+    <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript" alt="JavaScript Badge"/>
+    <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3" alt="CSS Badge"/>
+    <img src="https://img.shields.io/badge/Bulma-black?style=for-the-badge&logo=Bulma" alt="Bulma Badge"/>
+    <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=Bootstrap" alt="Bootstrap Badge"/>
+     <img src="https://img.shields.io/badge/Apollo Client-black?style=for-the-badge&logo=Apollo GraphQL" alt="Apollo Client Badge"/>
+     <img src="https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jQuery" alt="jQuery Badge"/>
+     <img src="https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=JSON" alt="JSON Badge"/>
+     <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React" alt="React Badge"/>
+     <img src="https://img.shields.io/badge/Handlebars.js-black?style=for-the-badge&logo=Handlebars.js" alt="Handlebars.js Badge"/>
+    
+</div>
+
+<!-- BACK END:  -->
+
+<br>
+
+<div id="badges">
+<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL" alt="MySQL Badge"/>
+    <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js" alt="Node.js Badge"/>
+    <img src="https://img.shields.io/badge/Nodemon-black?style=for-the-badge&logo=Nodemon" alt="Nodemon Badge"/>
+    <img src="https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm" alt="npm Badge"/>
+    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON Web Tokens" alt="JSON Web Tokens Badge"/>
+    <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=Express" alt="Express Badge"/>
+    <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=Insomnia" alt="Insomnia Badge"/>
+    <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB" alt="MongoDB Badge"/>
+    <img src="https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=GraphQL" alt="GraphQL Badge"/>
+    <img src="https://img.shields.io/badge/Apollo Server-black?style=for-the-badge&logo=Apollo GraphQL" alt="Apollo Server Badge"/>
+    <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=Express" alt="Express Badge"/>
+    <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=Express" alt="Express Badge"/>
+</div>
+
+<!-- GENERAL: -->
+
+<div id="badges">
+
+</div>
+
 ## Socials
 
 <div id="badges">
+    
 <!--   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> -->
+    
   <a href="https://twitter.com/KailebJTH">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+    
 </div>
 
 ## Website
 
 <div id="badges">
   <a href="https://www.portfolio.hammontreewebdev.live/">
-    <img src="https://img.shields.io/badge/Portfolio-HammontreeWebDev-red?style=social&logo=appveyor" />
+    <img src="https://img.shields.io/badge/Portfolio-HammontreeWebDev-red?style=for-the-badge" />
   </a>
   </div>
