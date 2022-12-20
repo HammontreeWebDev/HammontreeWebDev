@@ -8,6 +8,10 @@ Welcome, and thank you for taking your time to look at my work. I am beyond exci
 
 <br>
 
+[![Kaileb's GitHub stats](https://github-readme-stats.vercel.app/api?username=HammontreeWebDev)](https://github.com/HammontreeWebDev/github-readme-stats)
+
+<br>
+
 On the flip side, if you're here looking for other developers to bring on to your next project or help fuel creativity; Do not hesitate to reach out as well. I am here to make a difference, so let's do that together.
 <!-- Tech section -->
 
