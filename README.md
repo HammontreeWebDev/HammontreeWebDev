@@ -3,11 +3,6 @@
   background-color: #323B40;
   padding: 3%
 }
-
-#header {
-  background-color: #323B40;
-  padding: 3%
-}
 </style>
 
 # Profile README Under Construction. . . 
