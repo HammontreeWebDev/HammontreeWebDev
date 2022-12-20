@@ -1,16 +1,40 @@
-# Profile README Under Construction. . . 
+<style> 
+.background {
+  background-color: #323B40;
+  padding: 3%
+}
 
+#header {
+  background-color: #323B40;
+  padding: 3%
+}
+</style>
+
+# Profile README Under Construction. . . 
+<!-- container for entire body -->
+<div class="background">
+<!-- Header -->
+<div id="header">
 
 ![transparent-name-logo](https://user-images.githubusercontent.com/113649683/208552834-4ee7dc4d-625d-403b-b40d-02e90d9464b3.png)
+
+</div>
+
+<!-- welcome section -->
+<div id="welcome">
 
 ## Welcome To My GitHub Profile!
 
 
+</div>
+
+<!-- Tech section -->
+<div id="tech">
 ## Tech | Tools
 
 <!-- FRONT END:  -->
 
-<div id="badges">
+<div class="badges">
     <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5" alt="HTML5 Badge"/>
     <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript" alt="JavaScript Badge"/>
     <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=CSS3" alt="CSS Badge"/>
@@ -28,7 +52,7 @@
 
 <br>
 
-<div id="badges">
+<div class="badges">
 <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL" alt="MySQL Badge"/>
     <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js" alt="Node.js Badge"/>
     <img src="https://img.shields.io/badge/Nodemon-black?style=for-the-badge&logo=Nodemon" alt="Nodemon Badge"/>
@@ -45,16 +69,19 @@
 
 <br>
 
-<div id="badges">
+<div class="badges">
     <img src="https://img.shields.io/badge/Babel-black?style=for-the-badge&logo=Babel" alt="Babel Badge"/>
     <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git" alt="Git Badge"/>
     <img src="https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=Heroku" alt="Heroku Badge"/>
     <img src="https://img.shields.io/badge/PWA-black?style=for-the-badge&logo=PWA" alt="PWA Badge"/>
 </div>
+</div>
 
+<!-- Socials section -->
+<div id="socials">
 ## Socials
 
-<div id="badges">
+<div class="badges">
     
 <!--   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -65,11 +92,17 @@
   </a>
     
 </div>
+</div>
 
+<!-- Website section -->
+<div id="website">
 ## Website
 
-<div id="badges">
+<div class="badges">
   <a href="https://www.portfolio.hammontreewebdev.live/">
     <img src="https://img.shields.io/badge/Portfolio-HammontreeWebDev-red?style=for-the-badge" />
   </a>
   </div>
+  </div>
+
+</div>
