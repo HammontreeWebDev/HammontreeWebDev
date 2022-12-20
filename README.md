@@ -1,7 +1,7 @@
 <style> 
 .background {
   background-color: #323B40;
-  padding: 3%
+  padding: 3%;
 }
 </style>
 
