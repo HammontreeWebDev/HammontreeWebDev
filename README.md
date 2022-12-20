@@ -6,7 +6,7 @@
 ## Welcome To My GitHub Profile!
 
 
-## Proficiencies
+## Tech | Tools
 
 <!-- FRONT END:  -->
 
@@ -39,14 +39,17 @@
     <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB" alt="MongoDB Badge"/>
     <img src="https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=GraphQL" alt="GraphQL Badge"/>
     <img src="https://img.shields.io/badge/Apollo Server-black?style=for-the-badge&logo=Apollo GraphQL" alt="Apollo Server Badge"/>
-    <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=Express" alt="Express Badge"/>
-    <img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=Express" alt="Express Badge"/>
 </div>
 
 <!-- GENERAL: -->
 
-<div id="badges">
+<br>
 
+<div id="badges">
+    <img src="https://img.shields.io/badge/Babel-black?style=for-the-badge&logo=Babel" alt="Babel Badge"/>
+    <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git" alt="Git Badge"/>
+    <img src="https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=Heroku" alt="Heroku Badge"/>
+    <img src="https://img.shields.io/badge/PWA-black?style=for-the-badge&logo=PWA" alt="PWA Badge"/>
 </div>
 
 ## Socials
