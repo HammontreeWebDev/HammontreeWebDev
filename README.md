@@ -1,15 +1,19 @@
-# Profile README Under Construction. . . 
-
 ![transparent-name-logo](https://user-images.githubusercontent.com/113649683/208552834-4ee7dc4d-625d-403b-b40d-02e90d9464b3.png)
 
 
 
 <!-- welcome section -->
 ## Welcome To My GitHub Profile!
+Welcome, and thank you for taking your time to look at my work. I am beyond excited that you are here and I hope that your time here is enjoyable. Please feel free to look at any of the projects that I have worked on and use them to fuel your own ideas or perhaps even to troubleshoot an issue that you are having. Most of the work that is published here is under the MIT License, but if you are unsure about copywright issues, feel free to send me an email at hammontreewebdevelopment@gmail.com.
 
+<br>
+
+On the flip side, if you're here looking for other developers to bring on to your next project or help fuel creativity; Do not hesitate to reach out as well. I am here to make a difference, so let's do that together.
 <!-- Tech section -->
 
 ## Tech | Tools
+
+***A list of the tools and technology that I am familiar with (disclaimer: not EVERY tool I've ever used is listed here):***
 
 <!-- FRONT END:  -->
 
@@ -58,8 +62,8 @@
 <!-- Socials section -->
 ## Socials
 
+***Connect with me!***
 <div class="badges">
-    
 <!--   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> -->
@@ -67,12 +71,17 @@
   <a href="https://twitter.com/KailebJTH">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-    
+
+  <a href="https://stackoverflow.com/users/20187731/hammontreewebdev">
+    <img src="https://img.shields.io/badge/Stack Overflow-orange?style=for-the-badge&logo=Stack Overflow&logoColor=white" alt="Stack Overflow Badge"/>
+  </a>
+
 </div>
 
 <!-- Website section -->
 
 ## Website
+***Check out my projects, feel free to demo them, look at my resume, or send me an email!***
 
 <div class="badges">
   <a href="https://www.portfolio.hammontreewebdev.live/">
