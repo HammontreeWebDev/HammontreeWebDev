@@ -8,7 +8,9 @@ Welcome, and thank you for taking your time to look at my work. I am beyond exci
 
 <br>
 
-[![Kaileb's GitHub stats](https://github-readme-stats.vercel.app/api?username=HammontreeWebDev&count_private=true&show_icons=true&theme=aura)](https://github.com/HammontreeWebDev/)
+[![Kaileb's GitHub stats](https://github-readme-stats.vercel.app/api?username=HammontreeWebDev&include_all_commits=true&count_private=true&show_icons=true&theme=aura)](https://github.com/HammontreeWebDev/)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HammontreeWebDev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <br>
 
