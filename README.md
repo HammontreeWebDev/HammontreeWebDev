@@ -4,6 +4,7 @@
 
 <!-- welcome section -->
 ## Welcome To My GitHub Profile!
+<img src="https://komarev.com/ghpvc/?username=HammontreeWebDev&color=brightgreen" alt="watching_count" />
 Welcome, and thank you for taking your time to look at my work. I am beyond excited that you are here and I hope that your time here is enjoyable. Please feel free to look at any of the projects that I have worked on and use them to fuel your own ideas or perhaps even to troubleshoot an issue that you are having. Most of the work that is published here is under the MIT License, but if you are unsure about copyright issues, feel free to send me an email at hammontreewebdevelopment@gmail.com.
 
 <br>
