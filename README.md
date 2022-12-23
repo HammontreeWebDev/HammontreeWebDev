@@ -10,8 +10,6 @@ Welcome, and thank you for taking your time to look at my work. I am beyond exci
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HammontreeWebDev&theme=tokyonight" alt="mystreak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HammontreeWebDev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 <br>
 
 On the flip side, if you're here looking for other developers to bring on to your next project or help fuel creativity; Do not hesitate to reach out as well. I am here to make a difference, so let's do that together.
@@ -64,6 +62,10 @@ On the flip side, if you're here looking for other developers to bring on to you
     <img src="https://img.shields.io/badge/Heroku-black?style=for-the-badge&logo=Heroku" alt="Heroku Badge"/>
     <img src="https://img.shields.io/badge/PWA-black?style=for-the-badge&logo=PWA" alt="PWA Badge"/>
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=HammontreeWebDev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=HammontreeWebDev&theme=juicyfresh&no-bg=true" />
 
 <!-- Socials section -->
 ## Socials
