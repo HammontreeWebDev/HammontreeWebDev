@@ -63,7 +63,11 @@ On the flip side, if you're here looking for other developers to bring on to you
     <img src="https://img.shields.io/badge/PWA-black?style=for-the-badge&logo=PWA" alt="PWA Badge"/>
 </div>
 
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HammontreeWebDev&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+<br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=HammontreeWebDev&theme=juicyfresh&no-bg=true" />
 
