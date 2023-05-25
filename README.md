@@ -96,7 +96,7 @@ On the flip side, if you're here looking for other developers to bring on to you
 ***Check out my projects, feel free to demo them, look at my resume, or send me an email!***
 
 <div class="badges">
-  <a href="https://www.portfolio.hammontreewebdev.live/">
+  <a href="https://www.kailebhammontree.com/">
     <img src="https://img.shields.io/badge/Portfolio-HammontreeWebDev-red?style=for-the-badge" />
   </a>
   </div>
