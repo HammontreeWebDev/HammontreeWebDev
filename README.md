@@ -4,7 +4,11 @@
 
 <!-- welcome section -->
 ## Welcome To My GitHub Profile!
-Welcome, and thank you for taking your time to look at my work. I am beyond excited that you are here and I hope that your time here is enjoyable. Please feel free to look at any of the projects that I have worked on and use them to fuel your own ideas or perhaps even to troubleshoot an issue that you are having. Most of the work that is published here is under the MIT License, but if you are unsure about copyright issues, feel free to send me an email at kaileb@hammontreefullstacksolutions.com
+Welcome, and thank you for taking your time to look at my work.
+<br>
+I am beyond excited that you are here and I hope that your time here is enjoyable.
+<br>
+If you have any questions, or want to collaborate on something, feel free to send me an email at kaileb@hammontreefullstacksolutions.com
 
 <br>
 
