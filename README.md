@@ -17,7 +17,7 @@ If you have any questions, or want to collaborate on something, feel free to sen
 
 ## Tech | Tools
 
-***A list of the tools and technology that I am familiar with (disclaimer: not EVERY tool I've ever used is listed here):***
+***Some of the Tools & Technology that I have used:***
 
 <!-- FRONT END:  -->
 
