@@ -68,8 +68,6 @@ If you have any questions, or want to collaborate on something, feel free to sen
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=HammontreeWebDev&theme=tokyonight&no-bg=true" alt="GitHub Trophies"/>
-
 <!-- Socials section -->
 ## Socials
 
