@@ -1,37 +1,32 @@
 # Welcome to My Profile
 
 ## About Me
-Hello! I'm HammontreeWebDev, a passionate developer with a love for technology and programming. I specialize in various languages, including Lua.
+
+Hello! I'm a passionate web developer with experience in multiple programming languages, including **Lua**. I love creating interactive and engaging web applications. Below, you can find some of the projects I've worked on, along with my skills and interests.
 
 ## Skills
-- **Programming Languages**: Lua, JavaScript, Python, etc.
-- **Web Development**: HTML, CSS, React
-- **Database**: MySQL, MongoDB
+- HTML
+- CSS
+- JavaScript
+- Lua
+- Python
+- SQL
 
 ## Projects
-Here are some of my favorite projects:
 
-### Project 1: Example Project
-- Description: A brief overview of what this project does.
-- Tech Stack: Lua, HTML, CSS
-- [View Project](https://github.com/HammontreeWebDev/example-project)
+### Project 1: Awesome Web App
+![Project 1 Screenshot](https://example.com/project1.png)
 
-### Project 2: Another Example
-- Description: An interesting project I've worked on.
-- Tech Stack: JavaScript, Node.js
-- [View Project](https://github.com/HammontreeWebDev/another-example)
+A brief description of the awesome web app I created using HTML, CSS, and JavaScript. This application helps users accomplish tasks efficiently.
 
-## My Tools
-I love working with:
-- **VS Code**: My go-to editor for coding.
-- **GitHub**: Where I host my projects.
+### Project 2: Lua Game
+![Project 2 Screenshot](https://example.com/project2.png)
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/hammontreewebdev)
-- [Twitter](https://twitter.com/hammontreewebdev)
+In this project, I developed a small game using Lua. It's a fun interactive experience where players can explore and enjoy unlimited fun.
 
-![My Image](https://via.placeholder.com/150)
+## Contact Me
+You can reach me on [GitHub](https://github.com/HammontreeWebDev) or via email at [email@example.com].
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out to connect or collaborate!
+Thank you for visiting my profile!
