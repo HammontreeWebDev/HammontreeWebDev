@@ -42,6 +42,7 @@ If you have any questions, or want to collaborate on something, feel free to sen
 ### Frontend Frameworks & Libraries
 <div class="badges">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js Badge"/>
+    <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js Badge"/>
     <img src="https://img.shields.io/badge/Apollo%20Client-E435AA?style=for-the-badge&logo=apollo-graphql&logoColor=white" alt="Apollo Client Badge"/>
 </div>
 
@@ -61,6 +62,7 @@ If you have any questions, or want to collaborate on something, feel free to sen
 ### Databases
 <div class="badges">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
 </div>
 
@@ -81,6 +83,7 @@ If you have any questions, or want to collaborate on something, feel free to sen
 <div class="badges">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku Badge"/>
     <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA Badge"/>
+    <img src="https://img.shields.io/badge/Databricks-EA3E23?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks Badge"/>
 </div>
 
 <br>
