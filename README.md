@@ -1,32 +1,40 @@
-# Welcome to My Profile
+# Welcome
+Hello, welcome to my GitHub profile! You can reach me at: [your-email@example.com]
 
-## About Me
+## GitHub Streak Stats
+![GitHub Streak](https://img.shields.io/github/commit-activity/m/HammontreeWebDev/HammontreeWebDev?style=for-the-badge&color=green)
 
-Hello! I'm a passionate web developer with experience in multiple programming languages, including **Lua**. I love creating interactive and engaging web applications. Below, you can find some of the projects I've worked on, along with my skills and interests.
+## Tech | Tools
+### Frontend
+![HTML](https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1c?style=for-the-badge&logo=javascript)
+![Lua](https://img.shields.io/badge/Lua-2c2d72?style=for-the-badge&logo=lua)
 
-## Skills
-- HTML
-- CSS
-- JavaScript
-- Lua
-- Python
-- SQL
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 
-## Projects
+### General
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
-### Project 1: Awesome Web App
-![Project 1 Screenshot](https://example.com/project1.png)
+## Stats and Trophies
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HammontreeWebDev&show_icons=true&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=HammontreeWebDev)
 
-A brief description of the awesome web app I created using HTML, CSS, and JavaScript. This application helps users accomplish tasks efficiently.
+## Socials
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your_twitter)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/your_user)
 
-### Project 2: Lua Game
-![Project 2 Screenshot](https://example.com/project2.png)
-
-In this project, I developed a small game using Lua. It's a fun interactive experience where players can explore and enjoy unlimited fun.
-
-## Contact Me
-You can reach me on [GitHub](https://github.com/HammontreeWebDev) or via email at [email@example.com].
+## Website/Portfolio
+Check out my portfolio at [your-portfolio-link.com]  
 
 ---
 
-Thank you for visiting my profile!
+### Improvements Made
+- Fixed all broken badge image links with working shields.io badges.
+- Added Lua badge to languages.
+- Improved overall visual hierarchy and spacing with centered headers and better organization.
+- Used proper colors for badges instead of just black.
+- Professional styling with better typography.
